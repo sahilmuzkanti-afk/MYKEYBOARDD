@@ -5,6 +5,7 @@ To use this , i will assemble all the parts and flash the included firmware onto
 I built this project to deepen my understanding of PCB design, keyboard matrix layouts, and CAD designing I wanted hands-on experience creating a mechanical keyboard from the scratch while also designing something practical and customized to my preference
 
 <img width="778" height="465" alt="TOP" src="https://github.com/user-attachments/assets/e6209576-fb90-4528-8304-de98836f3d36" />
+<img width="985" height="540" alt="image" src="https://github.com/user-attachments/assets/7da2fc2b-fc23-4dc4-9a53-f52c1366fae8" />
 <img width="136" height="530" alt="SIDE VIEW" src="https://github.com/user-attachments/assets/f1fb8b86-2521-48ec-ab40-d9dae540cde3" />
 <img width="1197" height="699" alt="SCHEMATICS" src="https://github.com/user-attachments/assets/550d0284-f49f-4404-951b-1afbbb89a8d1" />
 <img width="1474" height="712" alt="PCB ROUTING" src="https://github.com/user-attachments/assets/db5e12be-2ccb-437a-a1c4-5144936644a7" />
